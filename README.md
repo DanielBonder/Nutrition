@@ -103,6 +103,7 @@ git clone https://github.com/DanielBonder/diet.git
 ### 🧔 [Daniel Bonder](https://github.com/DanielBonder)  
 🎓 B.A. in Economics & Information Systems – Tel-Hai College  
 📧 [danielbonder123@gmail.com](mailto:danielbonder123@gmail.com)
+🔗 [LinkedIn – Daniel Bonder](https://www.linkedin.com/in/daniel-bonder1/)
 
 ---
 
